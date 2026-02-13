@@ -31,3 +31,15 @@ h1 {
   font-style: italic;
   color: #555;
 }
+input, select {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+}
+
+button {
+  padding: 8px 12px;
+  margin-top: 8px;
+  cursor: pointer;
+}
